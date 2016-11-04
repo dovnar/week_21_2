@@ -1,0 +1,33 @@
+Kali Linux Training by Offensive Security
+
+Founded in 2007, the penetration testing and information security training company Offensive Security was born out of 
+the belief that the best way to achieve sound defensive security is through an offensive approach. The team is made 
+up of security professionals with extensive experience with attacking systems to see how they respond. They share this 	
+information through information security trainings, free penetration testing tools, and security publications.		
+Penetration Testing with Kali Linux											
+															
+Penetration Testing with Kali LinuxPenetration Testing with Kali Linux is the Offensive Security flagship ethical 	
+hacking course, designed and written by the Kali Linux developers. With years of experience in penetration testing, 	
+security research, tool development, and international Black Hat trainings, we have the experience and passion to teach 
+you all about penetration testing. Penetration Testing with Kali Linux is also the only official security course 	
+revolving around the Kali Linux distribution.										
+															
+Unlike most security training programs and certifications, Penetration Testing with Kali Linux is a performance based 	
+online course. Our certification process does not involve easy to remember multiple choice questions, but rather hands 	
+on penetration testing of live machines in a controlled, monitored lab environment. This makes the OSCP certification 	
+one of the hardest, and most sought after, professional certifications in the field.					
+Sign up for an Offensive Security course										
+Become a penetration tester. Register for an Offensive Security course today and join the ever growing family of 	
+skilled and certified professionals. Are you ready to try harder?							
+REGISTER														
+Penetration Testing & Information Security Training									
+															
+With the motto “Try Harder ®”, the Company’s trainings and Information security certifications are well-respected and 	
+considered amongst the most rigorous available, creating a model adopted across the industry. In addition, the Exploit 	
+Database, Metasploit Unleashed, and BackTrack Linux community projects are highly-regarded and used by security teams 	
+in governmental and commercial organizations across the world. Looking for advanced Penetration Testing Services? Try 	
+Offensive Security.													
+ The strong technical foundation of the Offensive Security training content, coupled with a rigorous testing process 	
+has established the OSCP certification as the most relevant education in the pen-testing space. Accuvant LABS requires 	
+any prospective consultants to pass the OSCP exam before applying to our attack and penetration testing team. 		
+AccuvantVP of the Attack and Penetration Testing Team									
